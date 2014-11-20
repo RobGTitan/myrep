@@ -35,6 +35,8 @@ Template Name:  Second page Template
 
 	<?php endif; ?>
 
+
+second edit
 </div><!-- end of #content -->
 
 
